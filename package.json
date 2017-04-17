@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"request": "*",
+		"unzip": "*",
+		"csv2": "*",
+		"aws-dynamodb": "*",
+		"async": "*"
+	}
+}
